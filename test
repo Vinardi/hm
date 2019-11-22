@@ -1,3 +1,4 @@
-<? php
-//здесь что-то будет
+<?php
+echo "Hello world":
 ?>
+
